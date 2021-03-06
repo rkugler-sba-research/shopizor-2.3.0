@@ -40,6 +40,10 @@
 		<org.elasticsearch-version>5.6.12</org.elasticsearch-version>
 		<io.searchbox.jest-version>5.3.3</io.searchbox.jest-version>
 		<jackson-version>2.9.5</jackson-version>
+
+			<sonar.projectKey>rkugler-sba-research_shopizor-2.3.0</sonar.projectKey>
+  <sonar.organization>rkugler-sba-research</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 
 	<dependencies>
